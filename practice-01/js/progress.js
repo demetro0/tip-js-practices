@@ -1,7 +1,7 @@
 "use strict";
 
-const totalTasks = 20;
-const completedTasks = 11;
+const totalTasks = 5;
+const completedTasks = 6;
 
 if (
     !Number.isInteger(totalTasks) ||
